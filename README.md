@@ -21,4 +21,4 @@ By the end of the analysis I have comapred crime rates with the weather and duri
   <img src="https://github.com/Shringa13/Chicago-Crime-Data-Analysis/blob/master/images/Crime_weather.JPG" width="600" title="Crime Weather">
 </p>
 
-I have attached detailed analysis and code snippet in file ** Crime Data Analysis.ipynb ** 
+I have attached detailed analysis and code snippet in file **Crime Data Analysis.ipynb** 
