@@ -4,5 +4,5 @@ The Chicago Crime Data analysis reflects the crime incidents that occured in the
 This project is dedicated to doing some cool data analysis and visualization on this already curated dataset
 
 <p align="left">
-  <img src="https://github.com/Shringa13/Chicago-Crime-Data-Analysis/blob/master/images/All_Crimes.JPG" width="700" title="hover text">
+  <img src="https://github.com/Shringa13/Chicago-Crime-Data-Analysis/blob/master/images/All_Crimes.JPG" width="600" title="hover text">
 </p>
